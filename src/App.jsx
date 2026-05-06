@@ -8,7 +8,7 @@ export default function LuxuryWishlistBoard() {
       description:
         'Легендарный lightweight roadster и так с глазками. Да маленькая.',
       image:
-        '/wishlist/images/myata.jpg',
+        '/wishlist/public/images/myata.jpg',
       link: 'https://www.avito.ru/minsk/avtomobili/mazda_mx-5_1.8_mt_1994_250_500_km_8045825383?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJXTGd1TjB0bGpnWFZXdDI2Ijt9rMQPaT8AAAA',
     },
     {
@@ -19,7 +19,7 @@ export default function LuxuryWishlistBoard() {
       description:
         'Зимний комплект, чтобы у меня не болела голова.',
       image:
-        '/wishlist/images/koleso.avif',
+        '/wishlist/public/images/koleso.avif',
       link: 'https://rimzona.ru/diski/wheels-r17/',
     },
     {
@@ -30,7 +30,7 @@ export default function LuxuryWishlistBoard() {
       description:
         'Американская мощь, эстетика late-night drives и вайб кино.',
       image:
-        '/wishlist/images/dodge.avif',
+        '/wishlist/public/images/dodge.avif',
       link: 'https://www.dodge.com',
     },
     {
@@ -41,7 +41,7 @@ export default function LuxuryWishlistBoard() {
       description:
         'Хочу выёбываться.',
       image:
-        '/wishlist/images/kavasaki.avif',
+        '/wishlist/public/images/kavasaki.avif',
       link: 'https://www.kawasaki.com',
     },
     {
@@ -52,7 +52,7 @@ export default function LuxuryWishlistBoard() {
       description:
         'Хочу выёбываться.',
       image:
-        '/wishlist/images/honda.avif',
+        '/wishlist/public/images/honda.avif',
       link: 'https://powersports.honda.com',
     },
     {
@@ -63,7 +63,7 @@ export default function LuxuryWishlistBoard() {
       description:
         'Премиальный rider aesthetic: шлем, куртка, перчатки и ботинки.',
       image:
-        '/wishlist/images/ekip.jpg',
+        '/wishlist/public/images/ekip.jpg',
       link: 'https://www.alpinestars.com',
     },
     {
@@ -74,7 +74,7 @@ export default function LuxuryWishlistBoard() {
       description:
         'Финансовая свобода, спокойствие и возможность закрыть ипотеку.',
       image:
-        '/wishlist/images/ipoteca.jpg',
+        '/wishlist/public/images/ipoteca.jpg',
       link: 'https://www.tradingview.com',
     },
   ];
@@ -189,7 +189,7 @@ export default function LuxuryWishlistBoard() {
 
           <div className="rounded-[30px] overflow-hidden h-[280px] shadow-xl shadow-black/5">
             <img
-              src="/wishlist/images/road.avif"
+              src="/wishlist/public/images/road.avif"
               className="w-full h-full object-cover"
             />
           </div>
